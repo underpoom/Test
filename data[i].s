@@ -1,0 +1,10 @@
+for(int : 0.00
+i=0;i<5;i++) : 0.00
+cin>>data[i].high; : 0.00
+sortt(5); : 0.00
+for(int : 0.00
+for(int : 0.00
+i=0;i<5;i++) : 0.00
+cin>>data[i].high; : 0.00
+sortt(5); : 0.00
+for(int : 0.00
